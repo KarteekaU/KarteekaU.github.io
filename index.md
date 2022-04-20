@@ -2,7 +2,7 @@
 
 ---
 
-[SQL Project](https://github.com/KarteekaU/SQL-Project)
+## [SQL Project](https://github.com/KarteekaU/SQL-Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
