@@ -2,11 +2,11 @@
 
 ---
 
-## [SQL Project](https://github.com/KarteekaU/SQL-Project)
+## [Structured Data Modeling & Analysis- SQL Project](https://github.com/KarteekaU/SQL-Project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Advanced Data Analytics- R Project](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
